@@ -74,7 +74,7 @@ Me chamo Gustavo Guzzo Sanches, tenho 19 anos e sou natural de São Paulo. Concl
     onmouseout="this.style.transform='scale(1)'"
   />
 </div>
-
+<br>
 <div align="center" style="margin-top: 30px;">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rxguzzo&theme=tokyonight" 
