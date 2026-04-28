@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gustavo Guzzo Sanches, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no SESI 420, com o curso Técnico em Desenvolvimento de Sistemas no SENAI - Prof. Dr. Euryclides de Jesus Zerbini. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional UNINTER.
+Me chamo Gustavo Guzzo Sanches, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no SESI 420, com o curso Técnico em Desenvolvimento de Sistemas no SENAI - Prof. Dr. Euryclides de Jesus Zerbini. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional UNINTER.
 
 💡 Apaixonado por tecnologia, interfaces intuitivas e soluções criativas  
 🚀 Em constante evolução, explorando novas stacks e boas práticas  
