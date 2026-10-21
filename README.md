@@ -1,138 +1,99 @@
 # 👨🏼‍💻 Gustavo Guzzo Sanches
 
-**`Desenvolvedor de Software | FullStack | TypeScript | React | Next.js | Node.js`**
+**`Desenvolvedor de Software · TypeScript · React · Next.js · Node.js · SQL`**
 
-Me chamo **Gustavo Guzzo Sanches**, tenho 20 anos e sou de São Paulo. Sou Técnico em Desenvolvimento de Sistemas pelo **SENAI - Prof. Dr. Euryclides de Jesus Zerbini** e atualmente curso **Análise e Desenvolvimento de Sistemas** no Centro Universitário Internacional **UNINTER**.
+Sou de Indaiatuba (SP), Técnico em Desenvolvimento de Sistemas pelo **SENAI** e estudante de **Análise e Desenvolvimento de Sistemas** na **UNINTER**.
 
-Atuo com desenvolvimento e manutenção de aplicações web, suporte técnico, infraestrutura de TI e automação de processos. Tenho experiência com **TypeScript, React, Next.js, Node.js, SQL, Supabase, MySQL e Git**, além de vivência prática na criação de sistemas internos, integrações, dashboards e soluções voltadas à produtividade.
+Na indústria, desenvolvi dois sistemas internos que **substituíram planilhas manuais**, um deles deixando o processo **80% mais rápido**. Hoje faço parte da equipe de **suporte de TI de 91 escolas municipais (~6.000 chamados/ano)**. Também desenvolvo sistemas para pequenos negócios, incluindo o da minha própria confeitaria.
 
-💡 Apaixonado por tecnologia, interfaces intuitivas e soluções que resolvem problemas reais
-🚀 Em constante evolução, explorando novas stacks, arquitetura e boas práticas
-🎯 Foco em performance, segurança, organização de código e experiência do usuário
-
-<p align="left">
-    <a href="https://github.com/rxguzzo?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rxguzzo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/rxguzzo?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rxguzzo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+🔭 **Agora:** construindo uma API REST em Node.js puro para entender HTTP a fundo, e levantando requisitos de um sistema de gestão de obras para um cliente real.
+🌱 **Estudando:** fundamentos de JavaScript/Node.js, arquitetura de APIs e AWS.
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/gustavo-guzzo/) · gu.guzzosanches@hotmail.com
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 🤖 Tecnologias
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Supabase" title="Supabase" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Prisma" title="Prisma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
 <br/>
 <br/>
+
+---
+
+## 📁 Projetos em destaque
+
+| Projeto | O que é | Tecnologias |
+| --- | --- | --- |
+| [**TaskGarden**](https://github.com/rxguzzo/taskgarden) · [demo](https://taskgarden-rho.vercel.app) | Gestão de tarefas gamificada por áreas da vida: tarefas, subtarefas, sessões de foco, timer Pomodoro e estatísticas. Autenticação, RLS e soft delete no Supabase, Server Actions e PWA. Entregue em módulos via pull requests. | Next.js, TypeScript, Tailwind, Supabase/PostgreSQL |
+| [**GN Doces — estudo de caso**](https://github.com/rxguzzo/gn-doces-case) | ERP da minha microempresa de confeitaria artesanal: estoque, produção com ficha técnica, vendas, encomendas, financeiro e importação de notas fiscais com IA (Gemini OCR). Código privado para proteger dados reais. | TypeScript, React, Node.js, SQL |
+| [**ISA**](https://github.com/rxguzzo/isa-project) · [demo](https://isa-project-eight.vercel.app) | TCC do SENAI: plataforma para consultores acompanharem empresas e demandas, com cadastro por CNPJ, abertura de demandas e perfil com validação de senha forte. Login com JWT e senhas com hash bcrypt. | Next.js, TypeScript, Prisma, PostgreSQL, JWT |
+| **ERP Pet Shop** *(privado)* | Gestão de clientes, pets, serviços, pacotes, agenda e financeiro, com permissões por perfil de usuário. | Next.js, TypeScript, Prisma |
+| **API de obras** *(em andamento)* | API REST em Node.js puro (`node:http`): CRUD com validação, códigos de status (400, 404, 201, 204) e API Key. | Node.js |
 
 ---
 
 ## 💼 Experiência
 
-Atualmente atuo como **Analista de Suporte de TI na INFOSMS - Tech**, trabalhando com suporte técnico, manutenção de infraestrutura, configuração de ambientes, diagnóstico de problemas de hardware/software e desenvolvimento/manutenção de sistemas web internos.
+**Analista de Suporte de TI — INFOSMS** · fev/2026 – atual
+Suporte e infraestrutura de TI da rede municipal de ensino de Indaiatuba: 91 escolas, ~500 docentes e ~6.000 chamados por ano. Diagnóstico de hardware e software, preparação de equipamentos e documentação de incidentes.
 
-Também atuei na **SEW Eurodrive Brazil** como Aprendiz Técnico em Tecnologia, participando do desenvolvimento de sistemas internos, automações, tratamento de dados, manutenção preventiva no SAP e apoio à criação de soluções para fluxos operacionais.
+**Aprendiz Técnico em Tecnologia — SEW-Eurodrive Brasil** · jul/2024 – dez/2025
+- **SEW-Planner:** substituiu a planilha manual de políticas de estoque por um sistema web, deixando o processo **80% mais rápido**.
+- **SEW-SGQ:** gestão de reclamações de qualidade que permitiu solucionar **30% das reclamações** em aberto sem devolutiva.
+- Apoio à manutenção preventiva no SAP e a automações de fluxos operacionais.
 
----
-
-## 📁 Projetos em Destaque
-
-| Projeto                                                                                  | Descrição                                                                                                                                                                                                                                                    | Tecnologias                                                    |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
-| [TaskGarden](https://github.com/rxguzzo/taskgarden)                                      | Aplicação web gamificada para organização pessoal por áreas da vida. Permite criar áreas, tarefas, subtarefas, sessões de foco, timer Pomodoro, histórico e estatísticas. Possui autenticação, RLS, soft delete, Server Actions e banco Supabase/PostgreSQL. | Next.js, React, TypeScript, Tailwind CSS, Supabase, PostgreSQL |
-| [ISA — Inteligência em Soluções Administrativas](https://github.com/rxguzzo/isa-project) | Plataforma web para consultoria e gestão de demandas empresariais, com cadastro de empresas, abertura de chamados e painel administrativo para acompanhamento de solicitações.                                                                               | Next.js, React, TypeScript, Node.js, Prisma, MySQL             |
-| ERP Pet Shop                                                                             | Sistema de gestão para pet shop com módulos de clientes, pets, serviços, pacotes, agenda, financeiro e controle de permissões por perfil de usuário.                                                                                                         | Next.js, TypeScript, Prisma, Node.js                           |
-| Sistema de Tratativas de Reclamações                                                     | Sistema para registro, acompanhamento e gestão de reclamações, com histórico, status, imagens, filtros, planos de ação e dashboards.                                                                                                                         | TypeScript, React, Node.js, SQL                                |
-| Planejamento de Manutenção                                                               | Sistema voltado ao controle de materiais, políticas de estoque, analistas, supervisores e acompanhamento de processos de manutenção.                                                                                                                         | TypeScript, Node.js, SQL                                       |
-
----
-
-## 🧠 Áreas de Interesse
-
-* Desenvolvimento FullStack
-* Aplicações web com React, Next.js e TypeScript
-* APIs RESTful e integrações
-* Banco de dados relacional
-* Supabase, PostgreSQL e RLS
-* Automação de processos
-* Dashboards e sistemas internos
-* Infraestrutura e suporte técnico
+*(Sistemas internos: código e dados pertencem à empresa e não são públicos.)*
 
 ---
 
 ## 🎓 Formação
 
-* **CST em Análise e Desenvolvimento de Sistemas** — UNINTER
-  `2025 - 2027`
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** — UNINTER · `2025 – 2027`
+- **Técnico em Desenvolvimento de Sistemas** — SENAI · `2022 – 2023`
+- **Técnico em Administração** — SENAI · `2024 – 2025`
 
-* **Técnico em Desenvolvimento de Sistemas** — SENAI
-  `2022 - 2023`
+## 📜 Certificados e conquistas
 
-* **Formação Técnica em Administração de Empresas** — SENAI
-  `2024 - 2025`
-
----
-
-## 📜 Certificados e Conquistas
-
-* JavaScript & TypeScript — Udemy
-* Implantação e Análise de Dados na Nuvem — Microsoft
-* Indústria 4.0 — SENAI
-* Microsoft Office 365 — SENAI
-* Microsoft Power BI — SENAI
-* Eletrônica e Eletricidade — Udemy
-* Medalhista de Prata — OBMEP
+- 🥈 Medalha de Prata — OBMEP (Olimpíada Brasileira de Matemática)
+- Implantação e Análise de Dados na Nuvem — Microsoft Azure
+- TypeScript & JavaScript — Udemy
+- Google Certified Educator Nível 1 · Gemini Educator
+- Power BI, Microsoft 365 e Indústria 4.0 — SENAI
 
 ---
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=rxguzzo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas" 
-    alt="GitHub Stats" 
-    height="200"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rxguzzo&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&custom_title=Estatísticas&cache_seconds=86400"
+    alt="Estatísticas do GitHub"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxguzzo&theme=tokyonight&layout=compact&locale=pt-br&hide_border=true&custom_title=Linguagens&langs_count=6&exclude_repo=MarcenariaSpazio,portifolio-gustavoguzzo&cache_seconds=86400"
+    alt="Linguagens mais usadas"
+    height="165"
   />
 </p>
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxguzzo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    alt="Top Languages" 
-    height="200"
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rxguzzo&theme=tokyonight"
+    alt="Resumo do perfil"
+    width="80%"
   />
-</div>
-
-<br/>
-
-<div align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rxguzzo&theme=tokyonight" 
-    alt="Resumo de Perfil"
-    height="150"
-  />
-</div>
+</p>
