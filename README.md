@@ -6,8 +6,8 @@ Sou de Indaiatuba (SP), Técnico em Desenvolvimento de Sistemas pelo **SENAI** e
 
 Na indústria, desenvolvi dois sistemas internos que **substituíram planilhas manuais**, um deles deixando o processo **80% mais rápido**. Hoje faço parte da equipe de **suporte de TI de 91 escolas municipais (~6.000 chamados/ano)**. Também desenvolvo sistemas para pequenos negócios, incluindo o da minha própria confeitaria.
 
-🔭 **Agora:** construindo uma API REST em Node.js puro para entender HTTP a fundo, e levantando requisitos de um sistema de gestão de obras para um cliente real. <br>
-🌱 **Estudando:** fundamentos de JavaScript/Node.js, arquitetura de APIs e AWS. <br>
+🔭 **Agora:** construindo uma API REST em Node.js puro para entender HTTP a fundo, e levantando requisitos de um sistema de gestão de obras para um cliente real.<br>
+🌱 **Estudando:** fundamentos de JavaScript/Node.js, arquitetura de APIs e AWS.<br>
 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/gustavo-guzzo/) · gu.guzzosanches@hotmail.com
 
 ---
@@ -79,7 +79,7 @@ Suporte e infraestrutura de TI da rede municipal de ensino de Indaiatuba: 91 esc
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=rxguzzo&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&custom_title=Estatísticas&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=rxguzzo&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&custom_title=Estatísticas&cache_seconds=86400&hide_rank=true"
     alt="Estatísticas do GitHub"
     height="165"
   />
